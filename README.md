@@ -3,7 +3,7 @@
 
 **Luana Jurach Banowski**
 - Estudante do Ensino Médio
-- EStudando programação
+- Estudando programação
 - Me desenvolvendo na linguagem frontend
 - Fazendo curso no [Alura](https://www.alura.com.br)
 
