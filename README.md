@@ -15,3 +15,5 @@
 
 ![](
 https://media.tenor.com/1G7KLUiquh0AAAAi/typing-fast.gif)
+
+[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luanna.bnw/)
